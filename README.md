@@ -25,6 +25,6 @@ If you decide to exit the game, you will be asked to confirm your choice. If you
 
 ## Important Note
 
-- Make sure you have Python installed on your machine to run the script.
+- Make sure you have python on your machine to run the script.
 
 Enjoy the game and happy guessing! If you have any feedback or suggestions, feel free to share them.
